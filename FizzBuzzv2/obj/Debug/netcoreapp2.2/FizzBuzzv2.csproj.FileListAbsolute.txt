@@ -8,3 +8,4 @@ C:\Users\JillHeaden\source\repos\FizzBuzzv2\FizzBuzzv2\obj\Debug\netcoreapp2.2\F
 C:\Users\JillHeaden\source\repos\FizzBuzzv2\FizzBuzzv2\obj\Debug\netcoreapp2.2\FizzBuzzv2.AssemblyInfo.cs
 C:\Users\JillHeaden\source\repos\FizzBuzzv2\FizzBuzzv2\obj\Debug\netcoreapp2.2\FizzBuzzv2.dll
 C:\Users\JillHeaden\source\repos\FizzBuzzv2\FizzBuzzv2\obj\Debug\netcoreapp2.2\FizzBuzzv2.pdb
+C:\Users\JillHeaden\source\repos\FizzBuzzv2\FizzBuzzv2\obj\Debug\netcoreapp2.2\FizzBuzzv2.csprojAssemblyReference.cache
