@@ -1,0 +1,10 @@
+C:\Users\JillHeaden\source\repos\FizzBuzzv2\FizzBuzzv2\bin\Debug\netcoreapp2.2\FizzBuzzv2.deps.json
+C:\Users\JillHeaden\source\repos\FizzBuzzv2\FizzBuzzv2\bin\Debug\netcoreapp2.2\FizzBuzzv2.runtimeconfig.json
+C:\Users\JillHeaden\source\repos\FizzBuzzv2\FizzBuzzv2\bin\Debug\netcoreapp2.2\FizzBuzzv2.runtimeconfig.dev.json
+C:\Users\JillHeaden\source\repos\FizzBuzzv2\FizzBuzzv2\bin\Debug\netcoreapp2.2\FizzBuzzv2.dll
+C:\Users\JillHeaden\source\repos\FizzBuzzv2\FizzBuzzv2\bin\Debug\netcoreapp2.2\FizzBuzzv2.pdb
+C:\Users\JillHeaden\source\repos\FizzBuzzv2\FizzBuzzv2\obj\Debug\netcoreapp2.2\FizzBuzzv2.csproj.CoreCompileInputs.cache
+C:\Users\JillHeaden\source\repos\FizzBuzzv2\FizzBuzzv2\obj\Debug\netcoreapp2.2\FizzBuzzv2.AssemblyInfoInputs.cache
+C:\Users\JillHeaden\source\repos\FizzBuzzv2\FizzBuzzv2\obj\Debug\netcoreapp2.2\FizzBuzzv2.AssemblyInfo.cs
+C:\Users\JillHeaden\source\repos\FizzBuzzv2\FizzBuzzv2\obj\Debug\netcoreapp2.2\FizzBuzzv2.dll
+C:\Users\JillHeaden\source\repos\FizzBuzzv2\FizzBuzzv2\obj\Debug\netcoreapp2.2\FizzBuzzv2.pdb

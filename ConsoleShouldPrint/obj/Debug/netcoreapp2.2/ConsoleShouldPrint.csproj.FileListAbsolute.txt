@@ -1,0 +1,17 @@
+C:\Users\JillHeaden\source\repos\FizzBuzzv2\ConsoleShouldPrint\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\JillHeaden\source\repos\FizzBuzzv2\ConsoleShouldPrint\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\JillHeaden\source\repos\FizzBuzzv2\ConsoleShouldPrint\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\JillHeaden\source\repos\FizzBuzzv2\ConsoleShouldPrint\bin\Debug\netcoreapp2.2\ConsoleShouldPrint.deps.json
+C:\Users\JillHeaden\source\repos\FizzBuzzv2\ConsoleShouldPrint\bin\Debug\netcoreapp2.2\ConsoleShouldPrint.runtimeconfig.json
+C:\Users\JillHeaden\source\repos\FizzBuzzv2\ConsoleShouldPrint\bin\Debug\netcoreapp2.2\ConsoleShouldPrint.runtimeconfig.dev.json
+C:\Users\JillHeaden\source\repos\FizzBuzzv2\ConsoleShouldPrint\bin\Debug\netcoreapp2.2\ConsoleShouldPrint.dll
+C:\Users\JillHeaden\source\repos\FizzBuzzv2\ConsoleShouldPrint\bin\Debug\netcoreapp2.2\ConsoleShouldPrint.pdb
+C:\Users\JillHeaden\source\repos\FizzBuzzv2\ConsoleShouldPrint\bin\Debug\netcoreapp2.2\FizzBuzzv2.dll
+C:\Users\JillHeaden\source\repos\FizzBuzzv2\ConsoleShouldPrint\bin\Debug\netcoreapp2.2\FizzBuzzv2.pdb
+C:\Users\JillHeaden\source\repos\FizzBuzzv2\ConsoleShouldPrint\obj\Debug\netcoreapp2.2\ConsoleShouldPrint.csprojAssemblyReference.cache
+C:\Users\JillHeaden\source\repos\FizzBuzzv2\ConsoleShouldPrint\obj\Debug\netcoreapp2.2\ConsoleShouldPrint.csproj.CoreCompileInputs.cache
+C:\Users\JillHeaden\source\repos\FizzBuzzv2\ConsoleShouldPrint\obj\Debug\netcoreapp2.2\ConsoleShouldPrint.AssemblyInfoInputs.cache
+C:\Users\JillHeaden\source\repos\FizzBuzzv2\ConsoleShouldPrint\obj\Debug\netcoreapp2.2\ConsoleShouldPrint.AssemblyInfo.cs
+C:\Users\JillHeaden\source\repos\FizzBuzzv2\ConsoleShouldPrint\obj\Debug\netcoreapp2.2\ConsoleShouldPrint.csproj.CopyComplete
+C:\Users\JillHeaden\source\repos\FizzBuzzv2\ConsoleShouldPrint\obj\Debug\netcoreapp2.2\ConsoleShouldPrint.dll
+C:\Users\JillHeaden\source\repos\FizzBuzzv2\ConsoleShouldPrint\obj\Debug\netcoreapp2.2\ConsoleShouldPrint.pdb
