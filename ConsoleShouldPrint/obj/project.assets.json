@@ -1620,14 +1620,14 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "FizzBuzzv2/1.0.0": {
+      "FizzBuzz/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
         "compile": {
-          "bin/placeholder/FizzBuzzv2.dll": {}
+          "bin/placeholder/FizzBuzz.dll": {}
         },
         "runtime": {
-          "bin/placeholder/FizzBuzzv2.dll": {}
+          "bin/placeholder/FizzBuzz.dll": {}
         }
       }
     }
@@ -5837,15 +5837,15 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "FizzBuzzv2/1.0.0": {
+    "FizzBuzz/1.0.0": {
       "type": "project",
-      "path": "../FizzBuzzv2/FizzBuzzv2.csproj",
-      "msbuildProject": "../FizzBuzzv2/FizzBuzzv2.csproj"
+      "path": "../FizzBuzz.csproj",
+      "msbuildProject": "../FizzBuzz.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
-      "FizzBuzzv2 >= 1.0.0",
+      "FizzBuzz >= 1.0.0",
       "MSTest.TestAdapter >= 1.4.0",
       "MSTest.TestFramework >= 1.4.0",
       "Microsoft.NET.Test.Sdk >= 16.0.1",
@@ -5859,11 +5859,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzzv2\\ConsoleShouldPrint\\ConsoleShouldPrint.csproj",
+      "projectUniqueName": "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzz\\ConsoleShouldPrint\\ConsoleShouldPrint.csproj",
       "projectName": "ConsoleShouldPrint",
-      "projectPath": "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzzv2\\ConsoleShouldPrint\\ConsoleShouldPrint.csproj",
+      "projectPath": "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzz\\ConsoleShouldPrint\\ConsoleShouldPrint.csproj",
       "packagesPath": "C:\\Users\\JillHeaden\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzzv2\\ConsoleShouldPrint\\obj\\",
+      "outputPath": "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzz\\ConsoleShouldPrint\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5882,8 +5882,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzzv2\\FizzBuzzv2\\FizzBuzzv2.csproj": {
-              "projectPath": "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzzv2\\FizzBuzzv2\\FizzBuzzv2.csproj"
+            "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzz\\FizzBuzz.csproj": {
+              "projectPath": "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzz\\FizzBuzz.csproj"
             }
           }
         }

@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzzv2\\FizzBuzzv2.csproj",
-      "projectName": "FizzBuzzv2",
-      "projectPath": "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzzv2\\FizzBuzzv2.csproj",
+      "projectUniqueName": "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzz\\FizzBuzz.csproj",
+      "projectName": "FizzBuzz",
+      "projectPath": "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzz\\FizzBuzz.csproj",
       "packagesPath": "C:\\Users\\JillHeaden\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzzv2\\obj\\",
+      "outputPath": "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzz\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,4 +1,4 @@
-using FizzBuzzv2;
+using FizzBuzz;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace ConsoleShouldPrint
