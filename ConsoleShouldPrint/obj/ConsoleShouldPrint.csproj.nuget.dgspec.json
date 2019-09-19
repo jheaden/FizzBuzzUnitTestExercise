@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzz\\ConsoleShouldPrint\\ConsoleShouldPrint.csproj": {}
+    "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzzv2\\ConsoleShouldPrint\\ConsoleShouldPrint.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzz\\ConsoleShouldPrint\\ConsoleShouldPrint.csproj": {
+    "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzzv2\\ConsoleShouldPrint\\ConsoleShouldPrint.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzz\\ConsoleShouldPrint\\ConsoleShouldPrint.csproj",
+        "projectUniqueName": "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzzv2\\ConsoleShouldPrint\\ConsoleShouldPrint.csproj",
         "projectName": "ConsoleShouldPrint",
-        "projectPath": "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzz\\ConsoleShouldPrint\\ConsoleShouldPrint.csproj",
+        "projectPath": "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzzv2\\ConsoleShouldPrint\\ConsoleShouldPrint.csproj",
         "packagesPath": "C:\\Users\\JillHeaden\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzz\\ConsoleShouldPrint\\obj\\",
+        "outputPath": "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzzv2\\ConsoleShouldPrint\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzz\\FizzBuzz.csproj": {
-                "projectPath": "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzz\\FizzBuzz.csproj"
+              "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzzv2\\FizzBuzzv2\\FizzBuzzv2.csproj": {
+                "projectPath": "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzzv2\\FizzBuzzv2\\FizzBuzzv2.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzz\\FizzBuzz.csproj": {
+    "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzzv2\\FizzBuzzv2\\FizzBuzzv2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzz\\FizzBuzz.csproj",
-        "projectName": "FizzBuzz",
-        "projectPath": "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzz\\FizzBuzz.csproj",
+        "projectUniqueName": "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzzv2\\FizzBuzzv2\\FizzBuzzv2.csproj",
+        "projectName": "FizzBuzzv2",
+        "projectPath": "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzzv2\\FizzBuzzv2\\FizzBuzzv2.csproj",
         "packagesPath": "C:\\Users\\JillHeaden\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzz\\obj\\",
+        "outputPath": "C:\\Users\\JillHeaden\\source\\repos\\FizzBuzzv2\\FizzBuzzv2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

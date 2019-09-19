@@ -1,4 +1,4 @@
-using FizzBuzz;
+using FizzBuzzv2;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace ConsoleShouldPrint
@@ -13,27 +13,48 @@ namespace ConsoleShouldPrint
             int x = 3;
             var result = fbe.Evaluate(x);
 
-            Assert.IsTrue(result == "buzz");
+            Assert.IsTrue(result == "fizz");
         }
 
         [TestMethod]
-        public void NumberIfNotMultOf3()
+        public void NumberIfNotMultOf3or5()
         {
             var fbe = new FizzBuzzEvaluator();
-            int x = 10;
+            int x = 7;
             var result = fbe.Evaluate(x);
 
             Assert.IsTrue(result == x.ToString());
         }
 
         [TestMethod]
-        public void NOTBuzzIfNotMultOf3()
+        public void NOTFizzOrBuzzIfNotMultOf3Or5()
         {
             var fbe = new FizzBuzzEvaluator();
-            int x = 10;
+            int x = 11;
             var result = fbe.Evaluate(x);
 
-            Assert.IsFalse(result == "buzz");
+            Assert.IsFalse(result == "fizz" || result == "buzz");
         }
+
+        [TestMethod]
+        public void BuzzIfMultOf5()
+        {
+            var fbe = new FizzBuzzEvaluator();
+            int x = 5;
+            var result = fbe.Evaluate(x);
+
+            Assert.IsTrue(result == "buzz");
+        }
+
+        [TestMethod]
+        public void FIZZBUZZ_if_Mult_of_3_and_5()
+        {
+            var fbe = new FizzBuzzEvaluator();
+            int x = 15;
+            var result = fbe.Evaluate(x);
+
+            Assert.IsTrue(result == "FIZZ BUZZ!");
+        }
+
     }
 }

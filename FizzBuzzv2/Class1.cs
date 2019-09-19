@@ -9,11 +9,18 @@ namespace FizzBuzzv2
 
         public string Evaluate(int x)
         {
+            if ((x % 3 == 0) && (x % 5 == 0))
+            {
+                return "FIZZ BUZZ!";
+            }
+            else if ((x % 3 == 0) && (x %5 != 0))
+            {
+                return "fizz";
 
-            if (x % 3 == 0)
+            }
+            else if ((x % 5 == 0) && (x % 3 != 0))
             {
                 return "buzz";
-
             }
             else
             {
